@@ -9,6 +9,7 @@ export default function Navbar() {
         <li className=' hover:text-green-200 active:text-gray-900'>Home</li>
         <li className='hover:text-green-200 active:text-gray-900'>About</li>
         <li className='hover:text-green-200 active:text-gray-900'>Tours</li>
+        <li className='hover:text-green-200 active:text-gray-900'>Tourse</li>
       </ul>
     </nav>
   );
