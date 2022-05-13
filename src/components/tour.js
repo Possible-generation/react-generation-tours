@@ -42,7 +42,9 @@ export default class Tour extends Component {
         <div className=' w-full h-full m-auto top-0 right-0 left-0 p-10 '>
           {' '}
           {this.state.showInfo && (
-            <p className=' absolute  top-1/4  m-auto bg-white p-1'>{info}</p>
+            <p className=' absolute  top-1/4  m-auto bg-white p-1 overflow-y-auto'>
+              {info}
+            </p>
           )}
         </div>
       </article>
