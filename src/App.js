@@ -20,7 +20,7 @@ export default class App extends Component {
     const { tours } = this.state;
 
     return (
-      <div className='bg-blue-400 w-full'>
+      <div className='bg-blue-400 w-full h-full'>
         <Navbar />
 
         <section className='  w-3/4 md:grid md:grid-cols-2 md:gap-6 lg:grid-cols-3 lg:w-5/6 xl:grid-cols-4 my-0 mx-auto p-8 '>
