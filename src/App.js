@@ -20,14 +20,11 @@ export default class App extends Component {
     const { tours } = this.state;
 
     return (
-      <div className='bg-blue-400 w-full h-full'>
+      <div className=' w-full h-full '>
         <Navbar />
-
-        <section className='  w-3/4 md:grid md:grid-cols-2 md:gap-6 lg:grid-cols-3 lg:w-5/6 xl:grid-cols-4 my-0 mx-auto p-8 '>
+        <section className='  w-3/4  md:grid md:grid-cols-2 md:gap-6 lg:grid-cols-3 lg:w-5/6 xl:grid-cols-4 my-0 mx-auto p-8  '>
           {tours.map((tour) => {
-            return (
-              <Tour key={tour.id} tour={tour} removeTour={this.removeTour} />
-            );
+            return <Tour tour={tour} removeTour={this.removeTour} />;
           })}
         </section>
       </div>

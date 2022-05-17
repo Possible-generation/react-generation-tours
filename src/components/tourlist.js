@@ -4,7 +4,7 @@ export const tourList = [
     city: 'new york',
     img: './img/new york bridge.jpg',
     name: 'new york bridge',
-    info: 'One of many signature landmarks of New York City, the Brooklyn Bridge is also one of the oldest suspension bridges in the country. Its six-lanes (and one pedestrian and bicycle walkway) span the East River, connecting Manhattan to Brooklyn. Walking across the bridge remains a tourist pastime.',
+    info: '',
   },
   {
     id: 2,
@@ -18,7 +18,7 @@ export const tourList = [
     city: 'london',
     img: './img/Buckingham-palace.jpg',
     name: 'london royal palace',
-    info: 'Buckingham Palace is a must-see when it comes to Royal Palaces in London. With 775 rooms along with the most extensive private garden in London, it is the Queen’s official London residence and a working royal palace.Perhaps the most recognizable portion of Buckingham Palace is the famous balcony where the royal family stands to greet.',
+    info: 'Buckingham Palace is a must-see when it comes to Royal Palaces in London. With 775 rooms along with the most extensive private garden in London, it is the Queen’s official London residence and a working royal palace..',
   },
   {
     id: 4,
@@ -46,7 +46,7 @@ export const tourList = [
     city: 'united State',
     img: './img/canyon-snow-us.jpg',
     name: 'cayon snow',
-    info: ' Snow Canyon State Park is a state park in Utah, located in the Red Cliffs Desert Reserve.[1] The park features a canyon carved from the red and white Navajo sandstone of the Red Mountains, as well as the extinct Santa Clara Volcano, lava tubes, lava flows, and sand dunes. Snow Canyon is located near the cities of Ivins and St. George in Washington County.',
+    info: ' Snow Canyon State Park is a state park in Utah, located in the Red Cliffs Desert Reserve.[1] The park features a canyon carved from the red and white Navajo sandstone of the Red Mountains, as well as the extinct Santa Clara Volcano, lava tubes, lava flows, and sand dunes. Snow Canyon is located near the cities of Ivins.',
   },
   {
     id: 8,
@@ -60,21 +60,21 @@ export const tourList = [
     city: 'france',
     img: './img/chateau-versailles-france.jpg',
     name: 'chateau versailles',
-    info: '  A former royal residence located in Versailles, about 12 miles (19 km) west of Paris, France. The palace is owned by the French Republic and has since 1995 been managed, under the direction of the French Ministry of Culture, by the Public Establishment of the Palace, Museum and National Estate of Versailles.',
+    info: '  A former royal residence located in Versailles, about 12 miles (19 km) west of Paris, France. The palace is owned by the French Republic and has since 1995 been managed, under the direction of the French Ministry of Culture, by the Public Establishment of the Palace.',
   },
   {
     id: 10,
     city: 'mexico',
     img: './img/chichen-itza-mexico.jpg',
     name: 'chichen itza',
-    info: ' The site exhibits a multitude of architectural styles, reminiscent of styles seen in central Mexico and of the Puuc and Chenes styles of the Northern Maya lowlands. The presence of central Mexican styles was once thought to have been representative of direct migration or even conquest from central Mexico, but most contemporary interpretations view the presence of these non-Maya styles more as the result of cultural diffusion.',
+    info: ' The site exhibits a multitude of architectural styles, reminiscent of styles seen in central Mexico and of the Puuc and Chenes styles of the Northern Maya lowlands. The presence of central Mexican styles was once thought to have been representative of direct migration or even conquest from  Mexico.',
   },
   {
     id: 11,
     city: 'china',
     img: './img/china-forbidden-city.jpg',
     name: 'forbidden city',
-    info: 'The Forbidden City was the political and ritual center of China for over 500 years. After its completion in 1420, the Forbidden City was home to 24 emperors, their families and servants during the Ming (1368–1644) and the Qing (1644–1911) dynasties. The last occupant (who was also the last emperor of imperial China), Puyi (1906–67), was expelled in 1925 when the precinct was transformed into the Palace Museum.',
+    info: 'The Forbidden City was the political and ritual center of China for over 500 years. After its completion in 1420, the Forbidden City was home to 24 emperors, their families and servants during the Ming (1368–1644) and the Qing (1644–1911) dynasties. The last occupant, Puyi (1906–67).',
   },
   {
     id: 12,
@@ -88,21 +88,21 @@ export const tourList = [
     city: 'corcovado',
     img: './img/corcovado-cristo-redentor-rio-de-janeiro.jpg',
     name: 'Christ_the_Redeemer_-_Cristo_Redentor',
-    info: 'Art Deco statue of Jesus Christ in Rio de Janeiro, Brazil, created by French sculptor Paul Landowski and built by Brazilian engineer Heitor da Silva Costa, in collaboration with French engineer Albert Caquot. Romanian sculptor Gheorghe Leonida fashioned the face. Constructed between 1922 and 1931, the statue is 30 metres (98 ft) high, excluding its 8-metre (26 ft) pedestal.',
+    info: 'Art Deco statue of Jesus Christ in Rio de Janeiro, Brazil, created by French sculptor Paul Landowski and built by Brazilian engineer Heitor da Silva Costa, in collaboration with French engineer Albert Caquot. Romanian sculptor Gheorghe Leonida fashioned the face. .',
   },
   {
     id: 14,
     city: 'czech republic',
     img: './img/czech-republic-prague-castle.jpg',
     name: 'prague castle',
-    info: 'a castle complex in Prague, Czech Republic, built in the 9th century. It is the official office of the President of the Czech Republic. The castle was a seat of power for kings of Bohemia, Holy Roman emperors, and presidents of Czechoslovakia. The Bohemian Crown Jewels are kept within a hidden room inside it.According to the Guinness Book of Records, Prague Castle is the largest ancient castle in the world,',
+    info: 'a castle complex in Prague, Czech Republic, built in the 9th century. It is the official office of the President of the Czech Republic.  The Bohemian Crown Jewels are kept within a hidden room inside it.According to the Guinness Book of Records, Prague Castle is the largest ancient castle in the world,',
   },
   {
     id: 15,
     city: 'egypt',
     img: './img/egypt-pyramids-giza.jpg',
     name: 'pyramids giza',
-    info: 'The Great Pyramid of Giza[a] is the largest Egyptian pyramid and tomb of Fourth Dynasty pharaoh Khufu. Built in the 26th century BC during a period of around 27 years,[3] it is the oldest of the Seven Wonders of the Ancient World, and the only one to remain largely intact. As part of the Giza pyramid complex, it borders present-day Giza in Greater Cairo, Egypt.Initially standing at 146.6 metres (481 feet), the Great Pyramid was the tallest man-made structure in the world for more than 3,800 years.',
+    info: 'The Great Pyramid of Giza[a] is the largest Egyptian pyramid and tomb of Fourth Dynasty pharaoh Khufu. Built in the 26th century BC during a period of around 27 years,[3] it is the oldest of the Seven Wonders of the Ancient World, and the only one to remain largely intact. As part of the Giza pyramid complex, .',
   },
   {
     id: 16,
@@ -116,7 +116,7 @@ export const tourList = [
     city: 'germany',
     img: './img/germany-brandenburg-gate.jpg',
     name: 'brandburg gate',
-    info: ' The Brandenburg Gate is one of the most iconic sights in today’s vibrant Berlin. More than just Berlin’s only surviving historical city gate, this site came to symbolise Berlin’s Cold War division into East and West – and, since the fall of the Wall, a reunified Germany. Architecturally, the sandstone Brandenburg Gate also represents one of the earliest and most attractive examples of a neo-classical building in Germany.',
+    info: ' The Brandenburg Gate is one of the most iconic sights in today’s vibrant Berlin. More than just Berlin’s only surviving historical city gate, this site came to symbolise Berlin’s Cold War division into East and West – and, since the fall of the Wall, a reunified Germany. ',
   },
   {
     id: 18,
@@ -137,7 +137,7 @@ export const tourList = [
     city: 'turkey',
     img: './img/istanbul turkey.jpg',
     name: 'instanbul',
-    info: ' Istanbul is a major city in Turkey that straddles Europe and Asia across the Bosphorus Strait. Its Old City reflects cultural influences of the many empires that once ruled here. In the Sultanahmet district, the open-air, Roman-era Hippodrome was for centuries the site of chariot races, and Egyptian obelisks also remain. The iconic Byzantine Hagia Sophia features a soaring 6th-century dome and rare Christian mosaic',
+    info: ' Istanbul is a major city in Turkey that straddles Europe and Asia across the Bosphorus Strait. Its Old City reflects cultural influences of the many empires that once ruled here. In the Sultanahmet district, the open-air, Roman-era Hippodrome was for centuries the site of chariot races, and Egyptian obelisks also remain.',
   },
   {
     id: 21,
@@ -151,7 +151,7 @@ export const tourList = [
     city: 'jordan',
     img: './img/jordan-petra.jpg',
     name: 'petra',
-    info: ' Petra is a famous archaeological site in Jordans southwestern desert. Dating to around 300 B.C., it was the capital of the Nabatean Kingdom. Accessed via a narrow canyon called Al Siq, it contains tombs and temples carved into pink sandstone cliffs, earning its nickname, the "Rose City." Perhaps its most famous structure is 45m-high Al Khazneh, a temple with an ornate, Greek-style facade, and known as The Treasury. ',
+    info: ' Petra is a famous archaeological site in Jordans southwestern desert. Dating to around 300 B.C., it was the capital of the Nabatean Kingdom. Accessed via a narrow canyon called Al Siq, it contains tombs and temples carved into pink sandstone cliffs, earning its nickname, the "Rose City." . ',
   },
   {
     id: 23,
@@ -165,14 +165,14 @@ export const tourList = [
     city: 'peru',
     img: './img/machu-picchu-peru.jpg',
     name: 'machu picchu',
-    info: ' Machu Picchu is an Incan citadel set high in the Andes Mountains in Peru, above the Urubamba River valley. Built in the 15th century and later abandoned, it’s renowned for its sophisticated dry-stone walls that fuse huge blocks without the use of mortar, intriguing buildings that play on astronomical alignments and panoramic views. Its exact former use remains a mystery.',
+    info: ' Machu Picchu is an Incan citadel set high in the Andes Mountains in Peru, above the Urubamba River valley. Built in the 15th century and later abandoned, it’s renowned for its sophisticated dry-stone walls that fuse huge blocks without the use of mortar, intriguing buildings that play on astronomical alignments and panoramic views. ',
   },
   {
     id: 25,
     city: 'kenya',
     img: './img/masai mara kenya.jpg',
     name: 'masai mara',
-    info: ' Maasai Mara National Reserve is an area of preserved savannah wilderness in southwestern Kenya, along the Tanzanian border. Its animals include lions, cheetahs, elephants, zebras and hippos. Wildebeest traverse its plains during their annual migration. The landscape has grassy plains and rolling hills, and is crossed by the Mara and Talek rivers.',
+    info: ' Maasai Mara National Reserve is an area of preserved savannah wilderness in southwestern Kenya, along the Tanzanian border. Its animals include lions, cheetahs, elephants, zebras and hippos. Wildebeest traverse its plains during their annual migration. The landscape has grassy plains and rolling hills.',
   },
   {
     id: 26,
@@ -200,7 +200,7 @@ export const tourList = [
     city: 'new york',
     img: './img/new york bridge.jpg',
     name: 'Manhattan bridge',
-    info: ' New York Citys crossings date back to 1693, when its first bridge, known as the Kings Bridge, was constructed over Spuyten Duyvil Creek between Manhattan and the Bronx, located in the present-day Kingsbridge neighborhood. The bridge, composed of stone abutments and a timber deck, was demolished in 1917. The oldest crossing still standing is High Bridge, built 1848 to carry the Croton Aqueduct from Manhattan to the Bronx over the Harlem River.[6] This bridge was built to carry water to the city as part of the Croton Aqueduct system.',
+    info: ' New York Citys crossings date back to 1693, when its first bridge, known as the Kings Bridge, was constructed over Spuyten Duyvil Creek between Manhattan and the Bronx, located in the present-day Kingsbridge neighborhood. The bridge, composed of stone abutments and a timber deck, was demolished in 1917.',
   },
   {
     id: 30,
@@ -214,7 +214,7 @@ export const tourList = [
     city: 'new york',
     img: './img/status of liberty newyork.jpg',
     name: 'status of liberty',
-    info: ' Statue of Liberty, formally Liberty Enlightening the World, colossal statue on Liberty Island in the Upper New York Bay, U.S., commemorating the friendship of the peoples of the United States and France. Standing 305 feet (93 metres) high including its pedestal, it represents a woman holding a torch in her raised right hand and a tablet bearing the adoption date of the Declaration of Independence (July 4, 1776) in her left.',
+    info: ' Statue of Liberty, formally Liberty Enlightening the World, colossal statue on Liberty Island in the Upper New York Bay, U.S., commemorating the friendship of the peoples of the United States and France. Standing 305 feet (93 metres) high including its pedestal.',
   },
   {
     id: 32,
