@@ -39,10 +39,18 @@ export default class Tour extends Component {
             </span>
           </h5>
         </div>
-        <div className=' w-full h-full m-auto top-0 right-0 left-0 p-10 '>
+        <div className=' w-full h-full m-auto top-0 right-0 left-0 p-10 overflow-y-auto '>
           {' '}
           {this.state.showInfo && (
-            <p className=' absolute  top-1/4  m-auto bg-white p-1 '>{info}</p>
+            <p className=' absolute -top-60 md:top-20  m-auto bg-blue-700  '>
+              <span
+                className=' text-xl cursor-pointer'
+                onClick={this.handleInfo}
+              >
+                <img className='w-4 h-4' src={menu} alt='' />
+              </span>
+              {info}
+            </p>
           )}
         </div>
       </article>
